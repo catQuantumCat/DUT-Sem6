@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "08511a69b469d008",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82c3b15e1339d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5410bcbd10bf01f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Endterm/102220067_TranHoangPhucHuy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "102220067_TranHoangPhucHuy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deaeaf3af7eb12bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d95cdffee6cd33d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1017bb080a769dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "05e863be707dffb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c129904e6022111",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "348b09707bc98a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b1bdf5d5a6d7602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d130197c45b69825",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resource/AI Project Cycle.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AI Project Cycle"
+            }
+          },
+          {
+            "id": "35e2cd9e186e6e35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resource/AI Project Cycle.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AI Project Cycle"
+            }
+          },
+          {
+            "id": "ffe93d4a82845e69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85cc763f5c697a00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resource/AI Project Cycle.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of AI Project Cycle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e5410bcbd10bf01f",
+  "lastOpenFiles": [
+    "Endterm/Đề.md",
+    "Endterm/102220067_TranHoangPhucHuy.pdf",
+    "Bai 8-9_ML-Linear Regression_2022.pdf",
+    "Bai 2_3_ Timkiemmu_2022.pdf",
+    "Code.md",
+    "Pasted image 20250526221001.png",
+    "Pasted image 20250526200738.png",
+    "102220237_NguyenHuuKhoa.pdf",
+    "Pasted image 20250526195822.png",
+    "Endterm",
+    "Pasted image 20250224152515.png",
+    "Pasted image 20250303161523.png",
+    "Pasted image 20250303161532.png",
+    "Pasted image 20250303161617.png",
+    "Pasted image 20250303161624.png",
+    "Resource/AI Project Cycle.pdf",
+    "1a10785ac4db02dc3a0cc1676b6ea97559343291fde1aaf80cc450cec3c1b11b.png",
+    "8318dd8d55b0366ceb103a7e6252613a59689e23f86f930e57b5c35c9a0a11b4.png",
+    "Bai 4_5_Timkiemcothongtin_2022.pdf",
+    "Ch2. Không gian trạng thái và tìm kiếm mù.md",
+    "Ch3. Tìm kiếm có thông tin.md",
+    "Ch4. Tìm kiếm có đối thủ.md",
+    "Ch6. Perceptron.md",
+    "Chương trình học.md",
+    "Gradient Decent.md",
+    "Mid-term.md",
+    "Ch5. Học máy - Hồi quy tuyến tính.md",
+    "Vòng đời dự án AI.md",
+    "Hypothesis testing.md",
+    "Resource"
+  ]
+}

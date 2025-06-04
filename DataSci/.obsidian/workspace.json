@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "4711bb4bd256d99d",
+    "type": "split",
+    "children": [
+      {
+        "id": "47309f6f708595d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27937d37cb560626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Report"
+            }
+          },
+          {
+            "id": "c5e8819416a3973e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250525171409.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250525171409"
+            }
+          },
+          {
+            "id": "bb67de93ca363191",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "emotion_samples.png"
+              },
+              "icon": "lucide-image",
+              "title": "emotion_samples"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93d4546e0e46b5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "003ce909d1137b44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5997182ad7b2aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "abe434b17516760d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c0d3151cba82d863",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "103a43cb227b9b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "78888b29338e3286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278a02a742d970d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hypothesis testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hypothesis testing"
+            }
+          },
+          {
+            "id": "52e9420873d695f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hypothesis testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hypothesis testing"
+            }
+          },
+          {
+            "id": "9850ebc79adb0bfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b22b4435461a52de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hypothesis testing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hypothesis testing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c5e8819416a3973e",
+  "lastOpenFiles": [
+    "Report.md",
+    "emotion_samples.png",
+    "Pasted image 20250527173016.png",
+    "Pasted image 20250527172514.png",
+    "Report 1.md",
+    "Pasted image 20250525171409.png",
+    "Pasted image 20250525170136.png",
+    "Pasted image 20250525165709.png",
+    "Pasted image 20250525165305.png",
+    "Seaborn lib.md",
+    "Welcome.md",
+    "bar_chart.png",
+    "Đề giữa kỳ.md",
+    "().md",
+    "sad_image_dimensions_plot.png",
+    "scared_image_dimensions_plot.png",
+    "Giữa kỳ.md",
+    "Hypothesis testing.md",
+    "Hypothesis testing.pdf"
+  ]
+}

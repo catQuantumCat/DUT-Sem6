@@ -1,0 +1,11 @@
+- [ ] BFS
+- [ ] DFS
+- [ ] DFS với limit
+- [ ] A-star
+- [ ] Minimax
+- [ ] Alpha-beta
+- [ ] Linear regression with batch (n, m, 1)
+- [ ] Perceptron
+- [ ] Perceptron with SVN
+- [ ] Logistic regression
+
